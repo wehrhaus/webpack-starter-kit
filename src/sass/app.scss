@@ -1,0 +1,27 @@
+$white: #fff;
+$body-bg: #fff;
+$dark-grey: #333;
+
+body {
+  margin: 0;
+  background-color: $body-bg;
+}
+
+#content {
+
+  h1 {
+    margin: 0;
+    text-align: center;
+    color: $white;
+  }
+
+  h2 {
+    margin: 0;
+    text-align: center;
+    color: orange;
+  }
+
+  width: 100vw;
+  height: 100vh;
+  background-color: $dark-grey;
+}
